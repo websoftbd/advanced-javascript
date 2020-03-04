@@ -1,4 +1,4 @@
-const nums =[1,2,3,4,5,6,7,8];
+const nums = [1,2,3,4,5,6,7,8];
 // const part =nums.slice(2,5);
 
 const removed = nums.splice(2,3,77 ,88, 99);
@@ -6,4 +6,4 @@ const removed = nums.splice(2,3,77 ,88, 99);
 // console.log(nums);
 
 const together = nums.join("ami")
-console.log(together;)
+console.log(together);

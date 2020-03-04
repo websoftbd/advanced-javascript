@@ -24,4 +24,4 @@
 const bigger = numbers.filter( x => x < 3);
 
 const isThere = numbers.find(x => x > 5);
-console.log(isThere);
+console.log(isThere);s
